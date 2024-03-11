@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://localhost:3000'</initValue>
+      <initValue>'http://gocapje.vercel.app'</initValue>
       <name>base_URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
